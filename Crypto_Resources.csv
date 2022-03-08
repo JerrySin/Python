@@ -1,0 +1,30 @@
+Name,URL,Category,Description,Idea
+Chainlist,https://chainlist.org/,Information,Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.,
+Coin360,https://coin360.com/,Information,"Watch the heatmap of cryptocurrency prices, market capitalizations, and volumes on COIN360.",
+CoinMarketCap,https://coinmarketcap.com/,Information,"Rank, Name, Symbol, Market Cap, Price, Circulating Supply",
+CoinGecko,https://www.coingecko.com/,Information,"Market Cap, Price, Rank",
+ClarityCoders,https://www.youtube.com/channel/UC9Q4rw4dkey9lhK5FnYuigg,Youtube Channel,"OpenCV, AI, Gaming rank coding",
+,https://github.com/ClarityCoders,Github Project,Computer Vision course using python and OpenCV,
+Coin Bureau,https://www.youtube.com/c/CoinBureau,Youtube Channel,"Crypto News, Information",
+Sebs FinTech Channel,https://www.youtube.com/c/SebsFinTechChannel,Youtube Channel,Mining Technique,
+韭菜兄弟,https://www.youtube.com/c/%E9%9F%AD%E8%8F%9C%E5%85%84%E5%BC%9F,Youtube Channel,技术分析，代码开发，智能合约，安全漏洞,
+財科暗戰,https://www.youtube.com/channel/UC-tHPfxMbXkM099YxK8pjmw,Youtube Channel,投资分析,
+每日幣研 Desmond,https://www.youtube.com/c/%E6%AF%8F%E6%97%A5%E5%B9%A3%E7%A0%94Desmond,Youtube Channel,投资分析,
+币圈科学家,https://www.youtube.com/c/%E5%B8%81%E5%9C%88%E7%A7%91%E5%AD%A6%E5%AE%B6,Youtube Channel,项目投机,
+Red Panda Mining,https://www.youtube.com/c/RedPandaMining,Youtube Channel,Mining Experiences,
+Trustswap Launchpads,https://dashboard.trustswap.org/app/launchpads,Lauching Platform,The TrustSwap Launchpad is your ticket for early access to the best new crypto and DeFi tokens in the space.,
+GameFi,https://hub.gamefi.org/,Lauching Platform,"GameFi is an e-sport ecosystem that includes fantasy gaming, betting, lottery, PVP games, and NFT marketplace.",
+TrustPad,https://trustpad.io/,Lauching Platform,TrustPad is a decentralized multi-chain fundraising platform enabling projects to raise capital and promise safety to early stage investors.,
+Solidity,https://docs.soliditylang.org/,Documentation,"Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.",
+Coinglass,https://www.coinglass.com/,Information,FundingRate,
+Ethereum Token Approval,https://etherscan.io/tokenapprovalchecker,Online Tool,Revoke ERC20 tokens approval,
+Polygon Token Approvals,https://polygonscan.com/tokenapprovalchecker,Online Tool,Revoke Polygon tokens approval,
+Coins to mine,https://minerstat.com/coins,Information,"Profitibility, Efficiency, and Hashrate comparison",
+What to Mine,https://whattomine.com/,Information,Profitibility comparison on different GPUs,
+SHA-3 / Keccak-256,https://emn178.github.io/online-tools/keccak_256.html,Online Tool,"SHA-3 / Keccak-256 online tool, function signature should match smart contract data value first 8 characters","Hack ABI Function Name, 1/15^8"
+ABI Encoder,https://abi.hashex.org/,Online Tool,Online ABI Encoding Service,ABI Collection
+Crypto Quant,https://cryptoquant.com/,Information,"Exchange Flows, NEW: Funding Rate, Open Interest, Exchange Netflow, Exchange Reserve, Future Contracts and Options, 标准差",
+Bia.is - Devlog,https://bia.is/tools/,Online Tool,"ABI Decoder − A simple tool that helps you to decode Ethereum transactions if you have the ABI.
+ABI2Solidity − Convert an ABI to a Solidity interface.
+ERC20 Watcher",
+Remix,https://remix.ethereum.org/,Online Tool,Ethereum Smart Contract Development IDE,
